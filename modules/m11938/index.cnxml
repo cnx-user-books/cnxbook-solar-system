@@ -1,0 +1,418 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Copernican System</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>73311cdc-b818-468e-b8f2-efddb141ed28</md:uuid>
+</metadata>
+
+  <content>
+    <para id="para1">
+      <figure id="fig1">
+	<media id="idp7962864" alt=""><image src="../../media/copernicus-t.gif" mime-type="image/gif"/></media>
+	<caption>Copernicus</caption>
+      </figure>
+
+      The first speculations about the possibility of the Sun being
+      the center of the cosmos and the Earth being one of the planets
+      going around it go back to the third century BCE. In his
+      <cite><cite-title>Sand-Reckoner</cite-title></cite>, Archimedes (d. 212 BCE), discusses
+      how to express very large numbers. As an example he chooses the
+      question as to how many grains of sand there are in the
+      cosmos. And in order to make the problem more difficult, he
+      chooses not the geocentric cosmos generally accepted at the
+      time, but the heliocentric cosmos proposed by Aristarchus of
+      Samos (ca. 310-230 BCE), which would have to be many times
+      larger because of the lack of observable stellar parallax. We
+      know, therefore, that already in Hellenistic times thinkers were
+      at least toying with this notion, and because of its mention in
+      Archimedes's book Aristarchus's speculation was well-known in
+      Europe beginning in the High Middle Ages but not seriously
+      entertained until Copernicus.
+    </para>
+
+
+    <para id="para2">
+      <figure id="fig2">
+	<media id="idp7228544" alt=""><image src="../../media/copernicus2-t.gif" mime-type="image/gif"/></media>
+	<caption>Copernicus</caption>
+      </figure>
+
+      European learning was based on the Greek sources that had been
+      passed down, and cosmological and astronomical thought were
+      based on Aristotle and <link document="m11943">Ptolemy</link>.
+      Aristotle's cosmology of a central Earth surrounded by
+      concentric spherical shells carrying the planets and fixed stars
+      was the basis of European thought from the 12th century CE
+      onward. Technical astronomy, also geocentric, was based on the
+      constructions of excentric circles and epicycles codified in
+      Ptolemy's <cite><cite-title>Almagest</cite-title></cite> (2d. century CE).
+    </para>
+
+    <para id="para3">
+      In the fifteenth century, the reform of European astronomy was
+      begun by the astronomer/humanist Georg Peurbach (1423-1461) and
+      his student Johannes Regiomontanus (1436-1476). Their efforts
+      (like those of their colleagues in other fields) were
+      concentrated on ridding astronomical texts, especially
+      Ptolemy's, from errors by going back to the original Greek texts
+      and providing deeper insight into the thoughts of the original
+      authors. With their new textbook and a guide to the
+      <cite><cite-title>Almagest</cite-title></cite>, Peurbach and Regiomontanus raised the
+      level of theoretical astronomy in Europe.
+    </para>
+
+    <para id="para4">
+      Several problems were facing astronomers at the beginning of the
+      sixteenth century. First, the tables (by means of which to
+      predict astronomical events such as eclipses and conjunctions)
+      were deemed not to be sufficiently accurate. Second, Portuguese
+      and Spanish expeditions to the Far East and America sailed out
+      of sight of land for weeks on end, and only astronomical methods
+      could help them in finding their locations on the high
+      seas. Third, the calendar, instituted by Julius Caesar in 44 BCE
+      was no longer accurate. The equinox, which at the time of the
+      Council of Nicea (325 CE) had fallen on the 21st, had now
+      slipped to the 11th. Since the date of Easter (the celebration
+      of the defining event in Christianity) was determined with
+      reference to the equinox, and since most of the other religious
+      holidays through the year were counted forward or backward from
+      Easter, the slippage of the calendar with regard to celestial
+      events was a very serious problem. For the solution to all three
+      problems, Europeans looked to the astronomers.
+    </para>
+
+    <para id="para5">
+      Nicholas Copernicus (1473-1543) learned the works of Peurbach
+      and Regiomontanus in the undergraduate curriculum at the
+      university of Cracow and then spent a decade studying in
+      Italy. Upon his return to Poland, he spent the rest of his life
+      as a physician, lawyer, and church administrator. During his
+      spare time he continued his research in astronomy. The result
+      was <cite><cite-title>De Revolutionibus Orbium Coelestium</cite-title></cite> ("On the
+      Revolutions of the Celestial Orbs"), which was published in
+      Nuremberg in 1543, the year of his death. The book was dedicated
+      to Pope Paul III and initially caused litle controversy. An
+      anonymous preface (added by Andreas Osiander, the Protestant
+      reformer of Nuremberg) stated that the theory put forward in
+      this book was only a mathematical hypothesis: the geometrical
+      constructions used by astronomers had traditionally had only
+      hypothetical status; cosmological interpretations were reserved
+      for the philosophers. Indeed, except for the first eleven
+      chapters of Book I, <cite><cite-title>De Revolutionibus</cite-title></cite> was a
+      technical mathematical work in the tradition of the
+      <cite><cite-title>Almagest</cite-title></cite>.  
+    </para>
+
+    <para id="para6">
+      <figure id="fig3">
+	<media id="idp6230320" alt=""><image src="../../media/copernican_universe-t.gif" mime-type="image/gif"/></media>
+	<caption>
+	  <link resource="copernican_universe.gif">Diagram of the Copernican system, from De Revolutions</link>
+	</caption>
+      </figure>
+
+      But in the first book, Copernicus stated that the Sun was the
+      center of the universe and that the Earth had a triple motion
+      <footnote id="idp6232736">
+	A daily rotation about its center, an annual motion around the
+	Sun, and a conical motion of its axis of rotation. This last
+	motion was made necessary because Copernicus conceptualized
+	the Earth's annual motion as the result of the Earth being
+	embedded in a spherical shell centered on the Sun. Its axis of
+	rotation therefore did not remain parallel to itself with
+	respect to the fixed stars. To keep the axis parallel to
+	itself, Copernicus gave the axis a conical motion with a
+	period just about equal to the year. The very small difference
+	from the annual period accounted for the precesion of the
+	equinoxes, an effect caused by the fact that the Earth's axis
+	(in Newtonian terms) precesses like a top, with a period of
+	about 26,000 years. (Copernicus's ideas about this precession
+	were more cumbersome and based on faulty data.)
+      </footnote>
+
+      around this center. His theory gave a simple and elegant
+      explanation of the retrograde motions of the planets (the annual
+      motion of the Earth necessarily projected onto the motions of
+      the planets in geocentric astronomy) and settled the order of
+      the planets (which had been a convention in Ptolemy's work)
+      definitively. He argued that his system was more elegant than
+      the traditional geocentric system. Copernicus still retained the
+      priviledged status of circular motion and therefore had to
+      construct his planetary orbits from circles upon and within
+      circles, just as his predecessors had done. His tables were
+      perhaps only marginally better than existing ones.
+    </para>
+
+    <para id="para7">
+      The reception of <cite><cite-title>De Revolutionibus</cite-title></cite> was mixed. The
+      heliocentric hypothesis was rejected out of hand by virtually
+      all, but the book was the most sophisticated astronomical
+      treatise since the <cite><cite-title>Almagest</cite-title></cite>, and for this it was
+      widely admired. Its mathematical constructions were easily
+      transferred into geocentric ones, and many astronomers used
+      them. In 1551 Erasmus Reinhold, no believer in the mobility of
+      the Earth, published a new set of tables, the <cite><cite-title>Prutenic
+      Tables</cite-title></cite>, based on Copernicus's parameters. These tables
+      came to be preferred for their accuracy. Further, <cite><cite-title>De
+      revolutionibus</cite-title></cite> became the central work in a network of
+      astronomers, who dissected it in great detail. Not until a
+      generation after its appearance, however, can we begin point to
+      a community of practicing astronomers who accepted heliocentric
+      cosmology. Perhaps the most remarkable early follower of
+      Copernicus was Thomas Digges (c. 1545-c.1595), who in <cite><cite-title>A
+      Perfit Description of the Coelestiall Orbes (1576)</cite-title></cite>
+      translated a large part of Book I of <cite><cite-title>De
+      Revolutionibus</cite-title></cite> into English and illustrated it with a
+      diagram in which the Copernican arrangement of the planets is
+      imbedded in an infinite universe of stars.
+    </para>
+
+    <para id="para8">
+      <figure id="fig4">
+	<media id="idp9189024" alt=""><image src="../../media/digges_universe-t.gif" mime-type="image/gif"/></media>
+	<caption>
+	  <link resource="digges_universe.gif">Diagram of the universe by Thomas Digges</link>
+	</caption>
+      </figure>
+
+      The reason for this delay was that, on the face of it, the
+      heliocentric cosmology was absurd from a common-sensical and a
+      physical point of view. Thinkers had grown up on the
+      Aristotelian division between the heavens and the earthly
+      region, between perfection and corruption. In Aristotle's
+      physics, bodies moved to their natural places. Stones fell
+      because the natural place of heavy bodies was the center of the
+      universe, and that was why the Earth was there. Accepting
+      Copernicus's system meant abandoning Aristotelian physics. How
+      would birds find their nest again after they had flown from
+      them? Why does a stone thrown up come straight down if the Earth
+      underneath it is rotating rapidly to the east? Since bodies can
+      only have one sort of motion at a time, how can the Earth have
+      several? And if the Earth is a planet, why should it be the only
+      planet with a moon?
+    </para>
+
+    <para id="para9">
+      For astronomical purposes, astronomers always assumed that the
+      Earth is as a point with respect to the heavens. Only in the
+      case of the Moon could one notice a parallactic displacement
+      (about 1°) with respect to the fixed stars during its
+      (i.e., the Earth's) diurnal motion. In Copernican astronomy one
+      now had to assume that the <emphasis>orbit of the
+      Earth</emphasis> was as a point with respect to the fixed stars,
+      and because the fixed stars did not reflect the Earth's annual
+      motion by showing an annual <term target-id="parallax">parallax</term>, the sphere of the fixed stars
+      had to be immense. What was the purpose of such a large space
+      between the region of Saturn and that of the fixed stars?
+      <figure id="fig5">
+	<media id="idp1055232" alt=""><image src="../../media/parallax-t.gif" mime-type="image/gif"/></media>
+	<caption>
+	 <link resource="parallax.gif">Parallax</link>
+	</caption>
+      </figure>
+    </para>
+
+    <para id="para10">
+      These and others were objections that needed answers. The
+      Copernican system simply did not fit into the Aristotelian way
+      of thinking. It took a century and a half for a new physics to
+      be devised to undegird heliocentric astronomy. The works in
+      physics and astronomy of Galileo and <link document="m11962">Johannes
+      Kepler</link> were crucial steps on this road.
+    </para>
+
+    <para id="para11">
+      There was another problem. A stationary Sun and moving Earth
+      also clashed with many biblical passages. Protestants and
+      Catholics alike often dismissed heliocentrism on these
+      grounds. Martin Luther did so in one of his "table talks" in
+      1539, before <cite><cite-title>De Revolutionibus</cite-title></cite> had
+      appeared. (Preliminary sketches had circulated in manuscript
+      form.) In the long run, Protestants, who had some freedom to
+      interpret the bible personally, accepted heliocentrism somewhat
+      more quickly. Catholics, especially in Spain and Italy, had to
+      be more cautious in the religious climate of the <term target-id="counterreformation">Counter Reformation</term>, as the
+      case of Galileo clearly demonstrates. <link document="m11958">Christoph Clavius</link>, the leading Jesuit
+      mathematician from about 1570 to his death in 1612, used
+      biblical arguments against heliocentrism in his astronomical
+      textbook.
+    </para>
+
+    <para id="para12">
+      The situation was never simple, however. For one thing, late in
+      the sixteenth century <link document="m11946">Tycho Brahe</link>
+      devised a hybrid geostatic heliocentric system in which the Moon
+      and Sun went around the Earth but the planets went around the
+      Sun. In this system the elegance and harmony of the Copernican
+      system were married to the solidity of a central and stable
+      Earth so that Aristotelian physics could be
+      maintained. Especially after Galileo's telescopic discoveries,
+      many astronomers switched from the traditional to the Tychonic
+      cosmology. For another thing, by 1600 there were still very few
+      astronomers who accepted Copernicus's cosmology. It is not clear
+      whether the execution of <link document="m11935">Giordano
+      Bruno</link>, a Neoplatonist mystic who knew little about
+      astronomy, had anything to do with his Copernican
+      beliefs. Finally, we must not forget that Copernicus had
+      dedicated <cite><cite-title>De Revolutionibus</cite-title></cite> to the Pope. During the
+      sixteenth century the Copernican issue was not considered
+      important by the Church and no official pronouncements were
+      made.
+    </para>
+
+    <para id="para13">
+      Galileo's discoveries changed all that. Beginning with
+      <cite><cite-title>Sidereus Nuncius</cite-title></cite> in 1610, Galileo brought the issue
+      before a wide audience. He continued his efforts, ever more
+      boldly, in his letters on sunspots, and in his letter to the
+      Grand Duchess Christina (circulated in manuscript only) he
+      actually interpreted the problematical biblical passage in the
+      book of Joshua to conform to a heliocentric cosmology. More
+      importantly, he argued that the Bible is written in the language
+      of the common person who is not an expert in
+      astronomy. Scripture, he argued, teaches us how to go to heaven,
+      not how the heavens go. At about the same time, <link document="m11966">Paolo Antonio Foscarini</link>, a <term target-id="carmellite">Carmelite</term> theologian in Naples, published a book
+      in which he argued that the Copernican theory did not conflict
+      with Scripture. It was at this point that Church officials took
+      notice of the Copernican theory and placed <cite><cite-title>De
+      Revolutionibus</cite-title></cite> on the <link document="m11974">Index of
+      Forbidden Books</link> until corrected.
+    </para>
+
+    <para id="para14">
+      Galileo's <cite><cite-title>Dialogue Concerning the Two Chief World
+      Systems</cite-title></cite> of 1632 was a watershed in what had shaped up to
+      be the "Great Debate." Galileo's arguments undermined the
+      physics and cosmology of Aristotle for an increasingly receptive
+      audience. His telescopic discoveries, although they did not
+      <emphasis>prove</emphasis> that the Earth moved around the Sun,
+      added greatly to his argument. In the meantime, <link document="m11962">Johannes Kepler</link> (who had died in 1630) had
+      introduced physical considerations into the heavens and had
+      published his <cite><cite-title>Rudolphine Tables</cite-title></cite>, based on his own
+      elliptical theory and <link document="m11946">Tycho Brahe's</link>
+      accurate observations, and these tables were more accurate by
+      far than any previous ones. The tide now ran in favor of the
+      heliocentric theory, and from the middle of the seventeenth
+      century there were few important astronomers who were not
+      Copernicans.
+    </para>
+  </content>
+
+  <glossary>
+    <definition id="parallax">
+      <term>parallax</term>
+      <meaning id="idp68656">
+	The change in the position of an object in the heavens due to
+	the orbit of the earth. Observable parallax in the fixed stars
+	is a proof of the rotation of the earth around the sun. See
+	this <link document="">explanatory diagram</link>.
+      </meaning>
+    </definition>
+
+    <definition id="counterreformation">
+      <term>Counter Reformation</term>
+      <meaning id="idp71520">
+	As dissenting groups split off from the Catholic Church in
+	what came to be known as the Protestant Reformation, the
+	Church began a series of reform measures of their own. These
+	reform measures aimed to keep Church members from becoming
+	Protestants, and were known as the Counter Reformation.
+      </meaning>
+    </definition>
+
+    <definition id="carmellite">
+      <term>Carmelite Order</term>
+      <meaning id="idp73648">
+	The Brothers of the Blessed Virgin Mary of Mount Carmel is one
+	of the mendicant orders originating on Mount Carmel in Israel.
+      </meaning>
+    </definition>
+  </glossary>
+
+  <bib:file>
+    <bib:entry id="rosen1984">
+      <bib:book>
+	<bib:author>Edward Rosen</bib:author>
+	<bib:title>Copernicus and the Scientific Revolution</bib:title>
+	<bib:publisher>Krieger</bib:publisher>
+	<bib:year>1984</bib:year>
+	<bib:address>Malabar, FL</bib:address>
+	<bib:note>a useful, if eccentric biography of Copernicus with a collection of documents concerning his life</bib:note>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="rosen1972">
+      <bib:incollection>
+	<bib:author>Nicholas Copernicus</bib:author>
+	<bib:title>On the Revolutions</bib:title>
+	<bib:booktitle>Complete works</bib:booktitle>
+	<bib:publisher>Macmillan</bib:publisher>
+	<bib:year>1972-</bib:year>
+	<bib:editor>Edward Rosen, tr.</bib:editor>
+	<bib:address>London</bib:address>
+	<bib:note>one of two modern, reliable translations of De Revolutionibus;  issued separately, Baltimore: Johns Hopkins Press, 1978</bib:note>
+      </bib:incollection>
+    </bib:entry>
+
+    <bib:entry id="duncan1976">
+      <bib:book>
+	<bib:author>Nicholas Copernicus</bib:author>
+	<bib:title>On the Revolutions of the Heavenly Spheres</bib:title>
+	<bib:publisher>David &amp; Charles; Barnes &amp; Noble</bib:publisher>
+	<bib:year>1976</bib:year>
+	<bib:address>London; New York</bib:address>
+	<bib:note>A. M. Duncan, tr.;  one of two modern, reliable translations of De Revolutionibus</bib:note>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="kuhn1957">
+      <bib:book>
+	<bib:author>Thomas S. Kuhn</bib:author>
+	<bib:title>The Copernican Revolution</bib:title>
+	<bib:publisher>Harvard University Press</bib:publisher>
+	<bib:year>1957</bib:year>
+	<bib:address>Cambridge</bib:address>
+	<bib:note>The best account of the Copernican revolution</bib:note>
+      </bib:book>
+    </bib:entry>
+
+    <bib:entry id="westman1975">
+      <bib:incollection>
+	<bib:author>Robert S. Westman</bib:author>
+	<bib:title>Three Responses to the Copernican Theory: Johannes Praetorius, Tycho Brahe, and Michael Maestlin</bib:title>
+	<bib:booktitle>The Copernican Achievement</bib:booktitle>
+	<bib:publisher>University of California Press</bib:publisher>
+	<bib:year>1975</bib:year>
+	<bib:editor>Robert S. Westman</bib:editor>
+	<bib:pages>285-345</bib:pages>
+	<bib:address>Berkeley and Los Angeles</bib:address>
+	<bib:note>For the different receptions of De Revolutionibus</bib:note>
+      </bib:incollection>
+    </bib:entry>
+
+    <bib:entry id="drake1987">
+      <bib:incollection>
+	<bib:author>Stillman Drake</bib:author>
+	<bib:title>Galileo's Steps to Full Copernicanism and Back, Studies in History and Philosophy of Science</bib:title>
+	<bib:booktitle>Scrutinizing Science: Empirical Studies of Scientific Change</bib:booktitle>
+	<bib:publisher>Dordrecht Kluwer</bib:publisher>
+	<bib:year>1987</bib:year>
+	<bib:editor>Arthur Donovan, Larry Laudan, and Rachel Laudan</bib:editor>
+	<bib:pages>93-105</bib:pages>
+	<bib:note>On Galileo's Copernicanism</bib:note>
+      </bib:incollection>
+    </bib:entry>
+
+    <bib:entry id="finocchiaro1988">
+      <bib:incollection>
+	<bib:author>Maurice A. Finocchiaro</bib:author>
+	<bib:title>Galileo's Copernicanism and the Acceptability of Guiding Assumptions</bib:title>
+	<bib:booktitle>Scrutinizing Science: Empirical Studies of Scientific Change</bib:booktitle>
+	<bib:publisher>Dordrecht Kluwer</bib:publisher>
+	<bib:year>1988</bib:year>
+	<bib:editor>Arthur Donovan, Larry Laudan, and Rachel Laudan</bib:editor>
+	<bib:pages>49-67</bib:pages>
+	<bib:note>On Galileo's Copernicanism</bib:note>
+      </bib:incollection>
+    </bib:entry>
+  </bib:file>
+  
+</document>

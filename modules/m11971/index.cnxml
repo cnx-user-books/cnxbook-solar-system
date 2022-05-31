@@ -1,0 +1,108 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Satellites of Jupiter</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>26d796ad-ccec-419f-b5c7-fb6c35f335d9</md:uuid>
+</metadata>
+
+  <content>
+
+    <figure id="fig1">
+      
+      <media id="idm9826768" alt=""><image src="../../media/jup_moons2-t.gif" mime-type="image/gif"/></media>
+      <caption>Jupiter's moons</caption>
+    </figure>
+
+    <para id="para1">Jupiter has a large number of satellites. Of these, four are comparable to the Earth's Moon in size; the rest are orders of magnitude smaller. When Jupiter is at opposition and closest to the Earth, the stellar magnitude of its four large moons is between 5 and 6.<footnote id="idm2694336">In Antiquity a rough numerical brightness rating for stars and planets was developed. Stars of the first magnitude were brightest; the dimmest celestial objects visible (to the naked eye) were assigned the sixth magnitude. This system is the basis of the modern system of stellar magnitudes bases on instrumental readings.</footnote> This means that, were it not for the shielding brightness of Jupiter, these bodies would be visible with the naked eye. The aperture of the telescope used by Galileo in 1610 and its magnification thus brought these four "Galilean" satellites within his grasp. </para>   
+    <para id="para2"> But first Galileo had to make adjustments to the instruments. When viewing bodies that are very bright and very small, the optical defects of the <link document="m11932">telescope</link> can be crippling. By trial and error Galileo learned to stop down the aperture of his instrument until he could begin to make useful observations. At the end of 1609, as he was finishing his series of observations of the <link document="m11945">Moon</link>, Jupiter was at opposition and the brightest object in the evening sky (not counting the Moon). When he had made the new adjustment to his instrument, he turned his attention to Jupiter. On 7 January 1610 he observed the planet and saw what he thought were three fixed stars near it, strung out on a line through the planet. This formation caught his attention, and he returned to it the following evening. </para>
+    <para id="para3"> Galileo's expectation was that Jupiter, which was then in its retrograde loop,<footnote id="idm2683664">When Jupiter is near opposition, it is on the same side of the Sun as the Earth, but the Earth is moving much faster than Jupiter. It therefore appears that Jupiter is moving backward with respect to the fixed stars.</footnote> would have moved from east to west and had left the three little stars behind. Instead, he saw all three stars to the west of Jupiter. It appeared as though Jupiter had not moved to the west but rather to the east. This was an anomaly, and Galileo returned to this formation again and again. Over the next week he found out several things. First, the little stars never left Jupiter; they appeared to be carried along with the planet. Second, as they were carried along, they changed their position with respect to each other and Jupiter. Third, there were not three but four of these little stars. By the 15th of January he had figured it out: these were not fixed stars but rather planetary bodies that revolved around Jupiter. Jupiter had four moons. His book, Sidereus Nuncius, in which his discovery was described, came off the press in Venice in the middle of March 1610 and made Galileo famous.  </para>
+   
+    <figure id="fig2">
+      
+      <subfigure id="fig2a">
+	
+	<media id="idm10875584" alt=""><image src="../../media/journal_jup1-t.gif" mime-type="image/gif"/></media>
+	<caption><link resource="journal_jup1.gif">large version</link></caption>
+      </subfigure>
+      <subfigure id="fig2b">
+	
+	<media id="idm3696912" alt=""><image src="../../media/journal_jup2-t.gif" mime-type="image/gif"/></media>
+	<caption><link resource="journal_jup2.gif">large version</link></caption>
+      </subfigure>
+      <caption>Galileo's observations of Jupiter's moon</caption>
+    </figure>
+    
+    <para id="para4"> The moons of Jupiter had a major impact on cosmology. In 1610 the traditional Aristotelian cosmology had come under attacks from Copernican astronomers. Aristotelians had a number of arguments against the <link document="m11938">Copernican System</link>, one of which was now made obsolete. In traditional cosmology, there was only one center of motion, the center of the universe which was the place of the Earth. The motions of all heavenly bodies centered on the Earth. But according to the Copernican theory, the Earth went around the Sun while the Moon went around the Earth. There were thus two centers of motion, which seemed an absurdity. Moreover, if the Earth was a planet, like Mercury, Venus, Mars, Jupiter, and Saturn, why was it the only planet to have a Moon? Galileo's discovery answered this question. The Earth was, in fact, not the only planet to have a moon, Jupiter had four. And no matter what cosmological system one believed in, there were now at least two centers of motion in the universe, the Earth or Sun and Jupiter. Thus, although the satellites (the term was first used by <link document="m11962">Johannes Kepler</link>) of Jupiter were by no means proof of the truth of the Copernican system, they certainly added ammunition on that side of the argument. </para>
+    <para id="para5"> In the purely astronomical realm, the satellites of Jupiter posed a new problem for astronomers. It had taken centuries in Antiquity to arrive at adequate geometrical modes for the motions of the known planets. Now there was a new system of planetary bodies in miniature, and astronomers had to develop models that could predict their motions. There was a great incentive to come up with good mathematical models, for the satellites offered some hope for the solution of the problem of <link document="m11963">longitude at sea</link>. It took almost two centuries, however, before the models and tables based on them reached satisfactory accuracy. </para>
+    <para id="para6"> The naming of the satellites provides an interesting example of how such matters were handled before the foundation of the International Astronomical Union in the twentieth century. As their discoverer, Galileo claimed the right to name the satellites. He wanted to name them after his patrons and asked whether they would prefer "Cosmic Stars" (after <link document="m11975">Cosimo II</link>) or "Medicean Stars." They opted for the latter, and through much of the seventeenth century they were known by that name. In his notebooks, Galileo referred to them individually by number, starting with the satellite closest to Jupiter, but he never had occasion to refer to them in this way in print. </para>
+    <para id="para7"> In Provence, Nicholas Claude Fabri de Peiresc tried to differentiate between the Medicean Stars by assigning them the names of individual members of the family, but this system was not published and thus was never used by others. In his Mundus Iovialis ("Jovian World") of 1614, <link document="m11973">Simon Marius</link> went into the naming problem in some depth. First, he himself used the numerical system beginning with the satellite closest to Jupiter. Second, he thought that he might call them after his patron, the Duke of Brandenburg -- a suggestion followed by no one. Third, he suggested naming the farthest satellite the Saturn of Jupiter, the next one the Jupiter of Jupiter, the third one the Venus of Jupiter, and the one nearest the planet the Mercury of Jupiter. This cumbersome system never caught on. Finally, Marius related a suggestion by <link document="m11962">Kepler</link>:<quote display="block" id="idm3337376"> Jupiter is much blamed by the poets on account of his irregular loves. Three maidens are especially mentioned as having been clandestinely courted by Jupiter with success. Io, daughter of the River, Inachus, Callisto of Lycaon, Europa of Agenor. Then there was Ganymede, the handsome son of King Tros, whom Jupiter, having taken the form of an eagle, transported to heaven on his back, as poets fabulously tell . . . . I think, therefore, that I shall not have done amiss if the First is called by me Io, the Second Europa, the Third, on account of its majesty of light, Ganymede, the Fourth Callisto . . . .</quote><quote display="block" id="idm2209072"> This fancy, and the particular names given, were suggested to me by Kepler, Imperial Astronomer, when we met at Ratisbon fair in October 1613. So if, as a jest, and in memory of our friendship then begun, I hail him as joint father of these four stars, again I shall not be doing wrong. [3]</quote> </para>
+    <para id="para8"> None of these suggestion caught on because with Jupiter's satellites, there was no confusion in the numbering system. Following Galileo and Marius, astronomers simply referred to them by number. With the satellites of Saturn, however, a problem developed. In 1655 Huygens discovered the first and largest; then in 1671-72 Giandomenico Cassini discovered two more, and in 1684 yet another two. These five satellites were numbered like their Galilean counterparts. But when in 1789 William Herschel discovered two additional satellites internal to the first, confusion followed. Did one now renumber them all (thus causing confusion for those who consulted older works), refer to the two new ones as nos. 6 and 7 (thus making the order of the satellites confusing), or refer to them by order of discovery (equally confusing as to order)? Herschel's son, John Frederick William, suggested in 1847 that Saturn's satellites be given individual names of mythological figures associated with Saturn after the suggestion made by Marius for Jupiter's satellites. When, the following year, William Lassel and George Bond independently discovered an eighth satellite of Saturn, they agreed to adopt the naming system proposed by Herschel, in which Saturn's satellites were named after his brothers and sisters, the Titans. This system and the now revived suggestion by Kepler and Marius for Jupiter quickly became the convention for naming the satellites of the superior planets. </para>
+
+    <figure id="fig3">
+      <title>Modern Images of the Galilean Satellites</title>
+      <subfigure id="fig3a">
+	
+	<media id="idp74720" alt=""><image src="../../media/io1-t.gif" mime-type="image/gif"/></media>
+	<caption><link resource="io1.gif">Io</link></caption>
+      </subfigure>
+      <subfigure id="fig3b">
+	
+	<media id="idm2784336" alt=""><image src="../../media/io2-t.gif" mime-type="image/gif"/></media>
+	  <caption><link resource="io2.gif">Io</link></caption>
+      </subfigure>
+      <subfigure id="fig3c">
+	
+	<media id="idm2688640" alt=""><image src="../../media/europa1-t.gif" mime-type="image/gif"/></media>
+	  <caption><link resource="europa1.gif">Europa</link></caption>
+      </subfigure>
+      <subfigure id="fig3d">
+	
+	<media id="idm3538992" alt=""><image src="../../media/europa2-t.gif" mime-type="image/gif"/></media>
+	  <caption><link resource="europa2.gif">Europa</link></caption>
+      </subfigure>
+      <subfigure id="fig3e">
+	
+	<media id="idm3074464" alt=""><image src="../../media/ganymede1-t.gif" mime-type="image/gif"/></media>
+	  <caption><link resource="ganymede1.gif">Ganymede</link></caption>
+      </subfigure>
+      <subfigure id="fig3f">
+	
+	<media id="idm3096704" alt=""><image src="../../media/ganymede2-t.gif" mime-type="image/gif"/></media>
+	  <caption><link resource="ganymede2.gif">Ganymede</link></caption>
+      </subfigure>
+      <subfigure id="fig3g">
+	
+	<media id="idm9841248" alt=""><image src="../../media/callisto1-t.gif" mime-type="image/gif"/></media>
+	  <caption><link resource="callisto1.gif">Callisto</link></caption>
+      </subfigure>
+      <subfigure id="fig3h">
+	
+	<media id="idm1507280" alt=""><image src="../../media/callisto2-t.gif" mime-type="image/gif"/></media>
+	  <caption><link resource="callisto2.gif">Callisto</link></caption>
+      </subfigure>
+    </figure>
+
+  </content>
+
+  <bib:file>
+    <bib:entry id="deb">
+      <bib:book>
+	<bib:author>Debarbat, Susanne and Wilson, Curtis</bib:author>
+	<bib:title>"The Galilean Satellites of Jupiter from Galileo to Cassini, Romer and Bradley"</bib:title>
+	<bib:publisher>Cambridge University Press</bib:publisher>
+	<bib:year>1984</bib:year>
+	<bib:address>Cambridge</bib:address>
+	<bib:note>In The General History of Astronomy. 4 vols., edited by M. A. H oskin, IIA: 14 4-57</bib:note>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="fre">
+      <bib:book>
+      <bib:author>Fremantle, Richard</bib:author>
+      <bib:title>Sidereus Nuncius, or the Sidereal Messenger</bib:title>
+      <bib:publisher>University of Chicago Press</bib:publisher>
+      <bib:year>1989</bib:year>
+      <bib:address>Chicago</bib:address>
+      <bib:note>Translated by Albert Van Helden</bib:note>
+      </bib:book>
+    </bib:entry>	
+  </bib:file>
+  
+</document>

@@ -1,0 +1,347 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:bib="http://bibtexml.sf.net/">
+  <title>Sunspots</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>6fa70f9f-b167-4c8f-8b70-1c89427cafa6</md:uuid>
+</metadata>
+
+  <content>
+
+    <figure id="fig1">
+       <media id="idm1294672" alt=""><image src="../../media/sun-t.gif" mime-type="image/gif"/></media> <caption><link resource="sun.gif">The Sun</link></caption>
+    </figure>
+
+    <para id="para1">Sunspots are dark areas of irregular shape on the
+    surface of the Sun. Their short-term and long-term cyclical nature
+    has been established in the past century. Spots are often big
+    enough to be seen with the naked eye. While direct observation of
+    the Sun in a clear sky is painful and dangerous, it is feasible
+    when the Sun is close to the horizon or when it is covered by a
+    thin veil of clouds or mist. Records of naked-eye sunspot
+    observations in China go back to at least 28 BCE. In the West, the
+    record is much more problematical. It is possible that the Greek
+    philosopher Anaxagoras observed a spot in 467 BCE, and it appears
+    that there are a few scattered mentions in the ancient literature
+    as well. However, in the dominant Aristotelian cosmology, the
+    heavens were thought to be perfect and unchanging. A spot that
+    comes and goes on the Sun would mean that there is change in the
+    heavens. Given this theoretical predisposition, the difficulty of
+    observing the Sun, and the cyclic nature of spots, it is little
+    wonder that records of sunspots are almost non-existent in Europe
+    before the seventeenth century. A very large spot seen for no less
+    than eight days in 807 was simply interpreted as a passage of
+    Mercury in front of the Sun. Other mentions of spots seen on the
+    Sun were ignored by the astronomers and philosophers. In 1607
+    <link document="m11962">Johannes Kepler</link> wished to observe a
+    predicted transit of Mercury across the Sun's disk, and on the
+    appointed day he projected the Sun's image through a small hole in
+    the roof of his house (a <term target-id="came">camera obscura</term>)
+    and did indeed observe a black spot that he interpreted to be
+    Mercury. Had he been able to follow up on his observation the next
+    day, he would still have seen the spot. Since he knew that Mercury
+    takes only a few hours to cross the Sun's disk during one of its
+    infrequent transits, he would have known that what he observed
+    could not have been Mercury.  </para>
+    
+    <figure id="fig2">
+       <media id="idp881728" alt=""><image src="../../media/ss_detailed-t.gif" mime-type="image/gif"/></media>
+      <caption><link resource="ss_detailed.gif">A sunspot</link></caption>
+    </figure>
+
+    <para id="para2"> The scientific study of sunspots in the West
+    began after the telescope had been brought into astronomy in
+    1609. Although there is still some controversy about when and by
+    whom sunspots were first observed through the <link document="m11932">telescope</link>, we can say that Galileo and
+    <link document="m11979">Thomas Harriot</link> were the first,
+    around the end of 1610; that <link document="m11961">Johannes and
+    David Fabricius</link> and <link document="m12126">Christoph
+    Scheiner</link> first observed them in March 1611, and that
+    Johannes Fabricius was the first to publish on them. His book,
+    <cite><cite-title>De Maculis in Sole Observatis</cite-title></cite> ("On the Spots Observed
+    in the Sun") appeared in the autumn of 1611, but it remained
+    unknown to the other observers for some time.  </para>
+
+    <figure id="fig3">
+       <media id="idp1132480" alt=""><image src="../../media/harriot_ss1-t.gif" mime-type="image/gif"/></media>
+      <caption><link resource="harriot_ss1.gif">Harriot's sunspot
+      drawings.</link></caption>
+    </figure>
+
+    <para id="para3"> In the meantime, Galileo had shown sunspots to a
+    number of people in Rome during his triumphant visit there in the
+    spring of 1611. But although some of his corespondents began
+    making regular observations a few months later, Galileo himself
+    did not undertake a study of sunspots until April 1612. Scheiner
+    began his serious study of spots in October 1611 and his first
+    tract on the subject, <cite><cite-title>Tres Epistolae de Maculis Solaribus
+    Scriptae ad Marcum Welserum</cite-title></cite> ("Three Letters on Solar Spots
+    written to <link document="m11964">Marc Welser</link>") appeared
+    in January 1612 under the pseudonym "Apelles latens post tabulam,"
+    or "Apelles waiting behind the painting."<footnote id="idp2797664">Legend has it that the famous Greek painter
+    Apelles once hid behind one of his painting to hear what people
+    said about it. When a shoemaker praised the way Apelles had
+    rendered shoes in the painting, Apelles revealed himself and
+    thanked the shoemaker for the compliment, but this man now
+    proceeded to give his not so complimentary opinions about other
+    aspects of the painting. Apelles answered "Let the shoemaker stick
+    to his last."</footnote> Welser was a scholar and banker in Augsburg,
+    who was a patron of local scholars.  </para>
+
+    <figure id="fig4">
+       <media id="idm1255120" alt=""><image src="../../media/tres_epistolae-t.gif" mime-type="image/gif"/></media>
+      <caption><link resource="tres_epistolae.gif">Sunspot plate from
+      Scheiner's Tres Epistolae.</link></caption>
+    </figure>
+
+    <para id="para4"> Scheiner, a Jesuit mathematician at the
+    university of Ingolstadt (near Augsburg), wished to preserve the
+    perfection of the Sun and the heavens and therefore argued that
+    sunspots were satellites of the Sun. They appeared as black spots
+    when they passed in front of the Sun but were invisible at other
+    points in their orbits. Their orbits had to be very close to the
+    Sun for their shapes were foreshortened as they approached its
+    edge. Scheiner observed sunspots through a telescope equipped with
+    colored glasses. </para> <para id="para5"> In the winter of
+    1611-12, when Galileo received a copy of Scheiner's tract from
+    Welser along with a request for his comments, he was ill, and what
+    little energy he had he was devoting to the publication of his
+    Discourse on Bodies in Water. When, however, that book was at the
+    printer's, in April 1612, he turned his attention to sunspots with
+    the help of his protege <link document="m11957">Benedetto
+    Castelli</link>, who was in <link document="m11936">Florence</link> at the time. It was Castelli who
+    developed the method of projecting the Sun's image through the
+    telescope, a technique that made it possible to study the Sun in
+    detail even when it was high in the sky. Galileo wrote his first
+    letter to Welser on sunspots, in which he argued that spots were,
+    in fact, on the surface of the Sun or in its atmosphere, and
+    although he could not say for certain what they were, they
+    appeared to him most like clouds. </para> <para id="para6">While
+    Scheiner wrote in Latin, Galileo wrote his letter in Italian, and
+    Welser had to have it translated before Scheiner could read
+    it. Scheiner had continued his solar observations, and by the time
+    he had mastered Galileo's letter he had already finished two more
+    letters of his own to Welser. He now added a third, in which he
+    commented that his observations agreed precisely with those of
+    Galileo and defended his judgment that sunspots were solar
+    satellites. This second series of letters was published by Welser
+    in October 1612 under the title <cite><cite-title>De Maculis Solaribus
+    . . . Accuratior Disquisitio</cite-title></cite> ("A More Accurate Disquisition
+    . . . on Sunspots"). Scheiner maintained his pseudonym of Apelles
+    "or, if you prefer, Odysseus under the shield of Ajax." In the
+    meantime, Galileo had written a second letter to Welser in August
+    1612. In this letter he showed a large number of sunspot
+    observations, made at roughly the same time of the day, so that
+    the Sun's orientation was the same and the motion of the spots
+    across its disk could be easily followed. Upon receiving
+    Scheiner's second tract he wrote yet a third, dated December 1612,
+    attacking Apelles's opinions once again. At the end of his last
+    letter Galileo mentioned the <link document="m11938">Copernican
+    System</link> favorably in a way that some scholars have
+    interpreted as his first endorsement of that theory. </para>
+
+    <figure id="fig5">
+       <media id="idp2286976" alt=""><image src="../../media/helioscopium-t.gif" mime-type="image/gif"/></media>
+      <caption><link resource="helioscopium.gif">"Helioscopium" used by
+      Scheiner for his later sunspot observations.</link></caption>
+    </figure>
+
+    <para id="para7"> Galileo's three letters were published in Rome
+    by the <link document="m11955">Lyncean Academy</link> in the
+    summer of 1613. About a third of the copies had reprints of the
+    two tracts by Apelles (whose identity had in the meantime become
+    known) in their original Latin. There was little doubt about the
+    winner of this contest. Scheiner's language was convoluted, and
+    not only did Galileo demolish his argument, he also criticized
+    Scheiner's a priori method of argument: the Sun is perfect,
+    therefore it cannot have spots on its surface. </para> <para id="para8"> Up to this point, relations between Galileo and
+    Scheiner were not strained. Scheiner had treated Galileo with
+    great respect, and Galileo had been courteous in his language. Ten
+    years later, in his Assayer, Galileo complained about those who
+    would steal his priority of discovery, mentioning the case of
+    sunspots but not mentioning Scheiner. It is almost certain that
+    Galileo was complaining about several others who had published on
+    sunspots but who had not recognized his priority. Scheiner, who at
+    this time was settling in Rome, took Galileo's complaint to be
+    directed at him and became Galileo's sworn enemy. </para>
+
+    <figure id="fig6">
+      
+      <subfigure id="fig6a">
+	 <media id="idm8062672" alt=""><image src="../../media/scheiner_rosa_ursina1-l-t.bmp" mime-type="image/bmp"/></media> <caption><link resource="scheiner_rosa_ursina1-l.gif">large
+	version</link></caption>
+      </subfigure>
+      <subfigure id="fig6b">
+	 <media id="idm9339280" alt=""><image src="../../media/scheiner_rosa_ursina2-l-t.bmp" mime-type="image/bmp"/></media> <caption><link resource="scheiner_rosa_ursina2-l.gif">large
+	version</link></caption>
+      </subfigure>
+      <subfigure id="fig6c">
+	 <media id="idm7597536" alt=""><image src="../../media/scheiner_rosa_ursina3-l-t.bmp" mime-type="image/bmp"/></media> <caption><link resource="scheiner_rosa_ursina3-l.gif">large
+	version</link></caption>
+      </subfigure>
+      <caption>Sunspot drawings from Scheiner's Rosa Ursina.</caption>
+    </figure>
+    
+    <para id="para9"> Scheiner had in the meantime published several
+    important books on optics, and he had continued his study of the
+    Sun. He published his results in a massive tome, Rosa Ursina,
+    ("The Rose of Orsini"),<footnote id="idm1252736">The rose refers to
+    the Sun, Cardinal Orsini was his patron who paid for the
+    printing.</footnote> which became the standard treatise on sunspots
+    for over a century. Scheiner had abandoned his opinion that spots
+    were solar satellites, and he indeed came out in favor of the
+    system of <link document="m11946">Tycho Brahe</link> and abandoned
+    the perfection of the heavens. His method of illustrating the
+    motion of individual spots across the face of the Sun became the
+    standard way of rendering this motion and the changing shapes of
+    the spots.  </para>
+
+    <figure id="fig7">
+       <media id="idm7619888" alt=""><image src="../../media/gassendi_ss-t.gif" mime-type="image/gif"/></media>
+      <caption><link resource="gassendi_ss.gif">Sunspot drawing by
+      Gassendi</link></caption>
+    </figure>
+    
+    <para id="para10"> After this time, however, sunspot activity was
+    drastically reduced. When, in 1671, a prominent sunspot was
+    observed, it was treated as a rare event. Sunspot activity
+    increased again after about 1710. The period of low activity is
+    now referred to as the Maunder Minimum, after Edward Walter
+    Maunder (1851-1928), one of the first modern astronomers to study
+    the long-term cycles of sunspots. Modern studies of sunspots
+    originated with the rise of astrophysics, around the turn of the
+    century. The chief early investigator of these phenomena in the
+    United States was George Ellery Hale (1868-1938), who built the
+    first spectro-heliograph and built the Yerkes and Mount Wilson
+    observatories, including the 200-inch telescope on Palomar
+    Mountain. </para> <para id="para11"> </para>
+
+    <figure id="fig8">
+      
+      <subfigure id="fig8a">
+	 <media id="idm894688" alt=""><image src="../../media/hevelius_ss1-t.bmp" mime-type="image/bmp"/></media>
+	<caption><link resource="hevelius_ss1.bmp">large
+	version</link></caption>
+      </subfigure>
+      <subfigure id="fig8b">
+	 <media id="idm1747856" alt=""><image src="../../media/hevelius_ss2-t.bmp" mime-type="image/bmp"/></media>
+	<caption><link resource="hevelius_ss2.bmp">large
+	version</link></caption>
+      </subfigure>
+      <caption>Sunspots drawings by Hevelius</caption>
+    </figure>
+
+  </content>
+
+
+  <glossary>
+    <definition id="came">
+      <term>camera obscura</term> <meaning id="idp4085712">- A darkened boxlike device
+      in which images of external objects, received through an
+      aperture, are exhibited in their natural colors on a surface
+      arranged to receive them.</meaning>
+    </definition>
+  </glossary>
+  
+  <bib:file>
+    <bib:entry id="dra">
+      <bib:book>
+	<bib:author>Drake, Stillman</bib:author>
+	<bib:title>Discoveries and Opinions of Galileo</bib:title>
+	<bib:publisher>Doubleday</bib:publisher>
+	<bib:year>1957</bib:year> <bib:address>Garden City,
+	NY</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="drak">
+      <bib:article>
+	<bib:author>Drake, Stillman</bib:author> <bib:title>"Sunspots,
+	Sizzi, and Scheiner"</bib:title> <bib:journal>alileo studies:
+	Personality, Tradition, and Revolution</bib:journal>
+	<bib:year>1970</bib:year> <bib:volume>Ann Arbor: University of
+	Michigan Press</bib:volume> <bib:pages>177-199</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="hut">
+      <bib:article>
+	<bib:author>Hutchison, Keith</bib:author>
+	<bib:title>Keith. "Sunspots, Galileo, and the Orbit of the
+	Earth"</bib:title> <bib:journal>Isis</bib:journal>
+	<bib:year>1990</bib:year> <bib:volume>81</bib:volume>
+	<bib:pages>68-74</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="mos">
+      <bib:book>
+	<bib:author>Moss, Jean Dietz</bib:author> <bib:title>Novelties
+	in the Heavens: Rhetoric and Science in the Copernican
+	Controversy</bib:title> <bib:publisher>University of Chicago
+	Press</bib:publisher> <bib:year>1993</bib:year>
+	<bib:address>Chicago</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="nor">
+      <bib:book>
+	<bib:author>North, John D.</bib:author> <bib:title>"Thomas
+	Harriot and the First Telescopic Observations of Sunspots." In
+	Thomas Harriot: Renaissance Scientist</bib:title>
+	<bib:publisher>Clarendon Press</bib:publisher>
+	<bib:year>1974</bib:year> <bib:address>Edited by John
+	W. Shirley, pp. 129-165. Oxford</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="sak">
+      <bib:article>
+	<bib:author>Sakurai, Kunitomo</bib:author> <bib:title> "The
+	Solar Activity in the Time of Galileo"</bib:title>
+	<bib:journal> Journal for the History of
+	Astronomy</bib:journal> <bib:year>1980</bib:year>
+	<bib:volume>11</bib:volume> <bib:pages>164-173</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="sar">
+      <bib:article>
+	<bib:author>Sarton, George</bib:author> <bib:title>"Early
+	Observations of Sunspots?" </bib:title>
+	<bib:journal>Isis</bib:journal> <bib:year>1947</bib:year>
+	<bib:volume>37</bib:volume> <bib:pages>69-71</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="sch">
+      <bib:book>
+	<bib:author>Schove, Justin D.</bib:author> <bib:title>Sunspots
+	Cycles</bib:title> <bib:publisher>Hutchinson
+	Ross,</bib:publisher> <bib:year>1983</bib:year>
+	<bib:address>Stroudsburg, PA</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="shea">
+      <bib:book>
+	<bib:author>Shea, William R.</bib:author> <bib:title>Galileo's
+	Intellectual Revolution: Middle Period (1610-1632)</bib:title>
+	<bib:publisher>Science History Publications</bib:publisher>
+	<bib:year>1972</bib:year> <bib:address>New York</bib:address>
+      </bib:book>
+    </bib:entry>
+    <bib:entry id="she">
+      <bib:article>
+	<bib:author>Shea, William R.</bib:author> <bib:title>"Galileo,
+	Scheiner, and the Interpretation of Sunspots"</bib:title>
+	<bib:journal>Isis</bib:journal> <bib:year>1970</bib:year>
+	<bib:volume>61</bib:volume> <bib:pages>498-519</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="smi">
+      <bib:article>
+	<bib:author>Smith, A. Mark.</bib:author> <bib:title>"Galileo's
+	Proof for the Earth's Motion from the Movement of
+	Sunspots"</bib:title> <bib:journal>Isis</bib:journal>
+	<bib:year>1985</bib:year> <bib:volume>76</bib:volume>
+	<bib:pages>543-551</bib:pages>
+      </bib:article>
+    </bib:entry>
+    <bib:entry id="vli">
+      <bib:article>
+	<bib:author>Vliegenthart, Adriaan W.</bib:author>
+	<bib:title>"Galileo's Sunspots: Their Role in 17th-Century
+	Allegorical Thinking"</bib:title>
+	<bib:journal>Physis</bib:journal> <bib:year>1965</bib:year>
+	<bib:volume>7</bib:volume> <bib:pages>273-280</bib:pages>
+	</bib:article> </bib:entry> </bib:file> </document>
